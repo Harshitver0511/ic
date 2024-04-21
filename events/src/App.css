@@ -1,0 +1,23 @@
+.header,.footer{
+
+  background-color: bisque;
+  height: 6rem;
+}
+.event{
+  font-size: 3rem;
+  color: rgb(67, 65, 65);
+  text-align: center;
+  font-weight: 800;
+  margin:1rem;
+}
+.content{
+  width: 70%;
+  font-size: 1.1rem;
+  color: black;
+  font-weight: 500;
+  margin: 1rem auto;
+  border: 1px solid black;
+  padding: 1rem;
+  
+
+}
